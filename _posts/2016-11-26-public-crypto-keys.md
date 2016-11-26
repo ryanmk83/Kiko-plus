@@ -7,8 +7,7 @@ comments: false
 ---
 [My Keybase.io profile](https://keybase.io/ryankendall)  
 
-[Ricochet.im](http://ricochet.im)  
-Ricochet ID:  
+[Ricochet.im](http://ricochet.im) ID:  
 ricochet:yhk5bk23zr3445ed
 
 **I prefer Ricochet for real time instant messaging**

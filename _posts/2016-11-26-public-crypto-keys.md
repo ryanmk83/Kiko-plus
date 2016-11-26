@@ -12,15 +12,19 @@ ricochet:yhk5bk23zr3445ed
 
 **I prefer Ricochet for real time instant messaging**
 
-OTR:  
+**OTR:**  
 XMPP: ryankendall [at] dukgo [dot] com  
-Fingerprint A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3
 
-PGP:  
+Fingerprint: A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3
+
+**PGP:**  
 Email: rmk2145 [at] columbia [dot] edu or ryankendall [at] ucla [dot] edu  
+
 Fingerprint: 1133 8148 EB8B 7AFD 3A38 8AE2 E227 2BBC C3CD A0DE  
+
 64-bit: E227 2BBC C3CD A0DE  
-[My PGP Public Key](https://keybase.io/ryankendall/key.asc)
+
+[Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: https://keybase.io/ryankendall
@@ -87,5 +91,4 @@ zDbgVMGBUbj+Bgb72OPUW5c13THFyQ9nI0n/05xGhcn1seOvoerc1+oaRqlmbWaT
 xaDoznHsbjdsfEt6wPEnQ4S6wX5wMAmx7ZXVWXpZE/fXqegLlCSmqUzHRnj2jpDa
 3xS3LMI=
 =q4xz
-
 -----END PGP PUBLIC KEY BLOCK-----

@@ -27,7 +27,7 @@ Fingerprint: 1133 8148 EB8B 7AFD 3A38 8AE2 E227 2BBC C3CD A0DE
 [Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: https://keybase.io/ryankendall
+Comment: https://keybase.io/download
 Version: Keybase Go 1.0.18 (darwin)
 
 xsFNBFg5JmgBEADFmHwWvr3qQTp4hmLe8LPg5XGyR0eWT78nqkRxajjPcFL3sw4K
@@ -90,5 +90,5 @@ GG3qSJ7aRoCsAJdQOQW6dKVWsySWK3pyPwf4YSjYI7LThJSYAL4yPC6hDjpSkh6r
 zDbgVMGBUbj+Bgb72OPUW5c13THFyQ9nI0n/05xGhcn1seOvoerc1+oaRqlmbWaT
 xaDoznHsbjdsfEt6wPEnQ4S6wX5wMAmx7ZXVWXpZE/fXqegLlCSmqUzHRnj2jpDa
 3xS3LMI=
-=q4xz
+=q4xz  
 -----END PGP PUBLIC KEY BLOCK-----

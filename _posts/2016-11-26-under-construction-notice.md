@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Under Construction"
-description: "Your patience is appreciated while my site is under construction."
+description: "I appreciate your patience while my site is under construction."
 date: 2016-11-26
 comments: false
 share: false

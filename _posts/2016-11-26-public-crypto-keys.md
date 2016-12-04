@@ -9,28 +9,28 @@ comments: false
 **More Secure-ish Contacts (Updated 04 December 2016):**  
 
 *If you have my phone number, you can reach me using [Signal](https://whispersystems.org)– which is my preferred option, or–**for casual conversations only**–you can reach me using [WhatsApp](https://www.whatsapp.com)*  
-***  
+
 I host all my public crypto keys on [Keybase.io](https://keybase.io), which I *highly recommend*. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
 
 [My Keybase.io profile](https://keybase.io/ryankendall)  
-***    
+
 ***I prefer Ricochet for real time instant messaging***
 
 [Ricochet.im](http://ricochet.im) ID:  
 ricochet:yhk5bk23zr3445ed  
-***  
+
 **XMPP/OTR on [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads):**  
 rmk2145 [at] jabber [dot] calyxinstitute [dot] org  
 
 **Fingerprint:**  
 89B7F4D1 657B31F5 108DAA5A 27910130 1502997E
-***  
+
 **XMPP/OTR on [Adium](https://www.adium.im):**  
 ryankendall [at] dukgo [dot] com  
 
 **Fingerprint:**  
 A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3  
-***  
+
 **[PGP/Email]():**  
 **Email:**  
 rmk2145 [at] columbia [dot] edu  

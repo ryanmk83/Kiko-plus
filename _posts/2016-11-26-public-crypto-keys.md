@@ -10,7 +10,7 @@ comments: false
 
 *If you have my phone number, you can reach me using [Signal](https://whispersystems.org)– which is my preferred option, or–**for casual conversations only**–you can reach me using [WhatsApp](https://www.whatsapp.com)*  
 
-I host all my public crypto keys on [Keybase.io](https://keybase.io), which I *highly recommend*. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
+I host all my public crypto keys on [Keybase.io](https://keybase.pub/ryankendall/keys/2016-11-26-ryan-kendall-public-crypto-keys.md), which I *highly recommend*. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
 
 [My Keybase.io profile](https://keybase.io/ryankendall)  
 

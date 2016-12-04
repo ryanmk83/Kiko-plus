@@ -5,31 +5,50 @@ description: "A list of means to reach me by more secure-ish communications."
 date: 2016-11-26  
 comments: false
 ---
+***
+**More Secure-ish Contacts (Updated 04 December 2016):**  
+
+*If you have my phone number, you can reach me using [Signal](https://whispersystems.org)– which is my preferred option, or–**for casual conversations only**–you can reach me using [WhatsApp](https://www.whatsapp.com)*  
+***  
+I host all my public crypto keys on [Keybase.io](https://keybase.io), which I *highly recommend*. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
+
 [My Keybase.io profile](https://keybase.io/ryankendall)  
+***    
+***I prefer Ricochet for real time instant messaging***
 
 [Ricochet.im](http://ricochet.im) ID:  
-ricochet:yhk5bk23zr3445ed
+ricochet:yhk5bk23zr3445ed  
+***  
+**XMPP/OTR on [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads):**  
+rmk2145 [at] jabber [dot] calyxinstitute [dot] org  
 
-**I prefer Ricochet for real time instant messaging**
+**Fingerprint:**  
+89B7F4D1 657B31F5 108DAA5A 27910130 1502997E
+***  
+**XMPP/OTR on [Adium](https://www.adium.im):**  
+ryankendall [at] dukgo [dot] com  
 
-**OTR:**  
-XMPP: ryankendall [at] dukgo [dot] com  
+**Fingerprint:**  
+A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3  
+***  
+**[PGP/Email]():**  
+**Email:**  
+rmk2145 [at] columbia [dot] edu  
+***OR***  
+ryankendall [at] ucla [dot] edu  
 
-Fingerprint: A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3
+**Fingerprint:**  
+1133 8148 EB8B 7AFD 3A38 8AE2 E227 2BBC C3CD A0DE  
 
-**PGP:**  
-Email: rmk2145 [at] columbia [dot] edu or ryankendall [at] ucla [dot] edu  
+**64-bit Fingerprint:**  
+E227 2BBC C3CD A0DE  
 
-Fingerprint: 1133 8148 EB8B 7AFD 3A38 8AE2 E227 2BBC C3CD A0DE  
+[Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)  
 
-64-bit: E227 2BBC C3CD A0DE  
+*I know [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is complicated and difficult to use. For folks not worried about nation-state surveillance,I highly recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelop is easy (dead simple) to setup and use. It's not perfect, but it's a start.  
+But in all honestly, using a product like [ricochet.im](http://ricochet.im) or setting up another jabber/XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) is probably faster, easier, and more reliable (read: better) than using PGP Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).*  
 
-[Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: https://keybase.io/download
-Version: Keybase Go 1.0.18 (darwin)
-
+-----BEGIN PGP PUBLIC KEY BLOCK-----  
 xsFNBFg5JmgBEADFmHwWvr3qQTp4hmLe8LPg5XGyR0eWT78nqkRxajjPcFL3sw4K
 uGacLA8w9lCghfP2k6TCkjAkdMM64H3EKpLpaFBdslUkobJNY9SG7Y4B/opy6yFe
 uFjDfy0VJrVfYT4+cLyzWgbAVCfCzWbBC/V2aXNJwBnO8EY41iaLI/R6nfJ76KIK

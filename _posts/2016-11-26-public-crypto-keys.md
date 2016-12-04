@@ -45,8 +45,7 @@ E227 2BBC C3CD A0DE
 
 [Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)  
 
-*I know [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is complicated and difficult to use. For folks not worried about nation-state surveillance,I highly recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelop is easy (dead simple) to setup and use. It's not perfect, but it's a start.  
-But in all honestly, using a product like [ricochet.im](http://ricochet.im) or setting up another jabber/XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) is probably faster, easier, and more reliable (read: better) than using PGP Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).*  
+*I know [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is complicated and difficult to use. For folks not worried about nation-state surveillance,I highly recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelop is easy (dead simple) to setup and use. It's not perfect, but it's a start. But in all honestly, using a product like [ricochet.im](http://ricochet.im) or setting up another jabber/XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) is probably faster, easier, and more reliable (read: better) than using PGP Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).*  
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 xsFNBFg5JmgBEADFmHwWvr3qQTp4hmLe8LPg5XGyR0eWT78nqkRxajjPcFL3sw4K

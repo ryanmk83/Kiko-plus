@@ -32,9 +32,12 @@ ryankendall [at] dukgo [dot] com
 A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3  
 
 **[PGP/Email]():**  
-**Email:**  
+
+ [PGP ("Pretty Good Privacy")](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is a highly-secure encryption protocol that that can be used with email. Unfortunately, the the average user PGP is complicated and difficult to use. For folks not worried about nation-state surveillance,I highly recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelop is easy (dead simple) to setup and use. It's not perfect, but it's a start. But in all honestly, using a product like [ricochet.im](http://ricochet.im) or setting up another jabber/XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) is probably faster, easier, and more reliable (read: better) than using PGP Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).  
+
+**PGP-associated email addresses:**  
 rmk2145 [at] columbia [dot] edu  
-***OR***  
+**OR**  
 ryankendall [at] ucla [dot] edu  
 
 **Fingerprint:**  
@@ -43,9 +46,7 @@ ryankendall [at] ucla [dot] edu
 **64-bit Fingerprint:**  
 E227 2BBC C3CD A0DE  
 
-[Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)  
-
-I know [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is complicated and difficult to use. For folks not worried about nation-state surveillance,I highly recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelope is an easy (read: dead simple) product to setup and use. It works with the popular [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) and Google Chrome browsers (use Firefox, [really](http://bit.ly/2g10Eta)), and it works with major web-based email providers. It's not perfect, but it's not a terrible start. **But in all honestly**, using a **fantastic** product like [ricochet.im](http://ricochet.im), or setting up an XMPP (Instant Messaging) with OTR ([Off The Record](http://bit.ly/2g0OHUm) encryption protocol) service using [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or  [Adium](https://www.adium.im) is faster, easier, and more reliable/secure (read: better) than using email with PGP. Here is a good article on getting started with XMPP/Instant Messaging services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).  
+[Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)    
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 xsFNBFg5JmgBEADFmHwWvr3qQTp4hmLe8LPg5XGyR0eWT78nqkRxajjPcFL3sw4K

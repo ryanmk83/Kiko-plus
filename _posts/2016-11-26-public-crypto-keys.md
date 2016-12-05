@@ -12,7 +12,7 @@ If you have my phone number, you can reach me using [Signal](https://whispersyst
 
 I host all my public crypto keys on [Keybase.io](https://ryankendall.keybase.pub), which I **highly recommend**. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
 
-[My Keybase.io profile](https://keybase.io/ryankendall)  
+**[My Keybase.io profile](https://keybase.io/ryankendall)**  
 
 **I prefer Ricochet for real time instant messaging**
 

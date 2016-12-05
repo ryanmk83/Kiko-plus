@@ -7,14 +7,14 @@ comments: false
 ---
 ***
 **More Secure-ish Contacts** <i><B>(Updated 04 December 2016):</B></i>
-
+  
 If you have my phone number, please contact me using the excellent [Signal app](https://whispersystems.org) or--**for casual conversations only**--you can reach me using [WhatsApp](https://www.whatsapp.com).  
 
 I host all my public crypto keys on [keybase.io](https://ryankendall.keybase.pub), which I **highly recommend**. The crypto keys on keybase.io are linked to my public social media accounts. This list of secure contacts can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
-***
-**[My keybase.io profile](https://keybase.io/ryankendall)**  
 
-**I prefer Ricochet for real time instant messaging**  
+**[My keybase.io profile](https://keybase.io/ryankendall)**  
+***
+**I prefer Ricochet for real time instant messaging.**  
 **[Ricochet.im](http://ricochet.im) ID:**  
 ricochet:yhk5bk23zr3445ed  
 ***
@@ -39,10 +39,10 @@ rmk2145 [at] columbia [dot] edu
 **OR**  
 ryankendall [at] ucla [dot] edu  
 
-**Fingerprint:**  
+**PGP Fingerprint:**  
 1133 8148 EB8B 7AFD 3A38 8AE2 E227 2BBC C3CD A0DE  
 
-**64-bit Fingerprint:**  
+**64-bit PGP Fingerprint:**  
 E227 2BBC C3CD A0DE  
 
 [Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)    

@@ -5,8 +5,8 @@ description: "A list of means to reach me by more secure-ish communications."
 date: 2016-11-26  
 comments: false
 ---
-**More Secure-ish Contacts** ***(Updated 04 December 2016):***
-
+More Secure-ish Contacts (Updated 04 December 2016):
+----------------------------------------------------
 If you have my phone number, please contact me using the excellent [Signal app](https://whispersystems.org) or--**for casual conversations only**--you can reach me using [WhatsApp](https://www.whatsapp.com).  
 
 I host all my public crypto keys on [keybase.io](https://ryankendall.keybase.pub), which I **highly recommend**. The crypto keys on keybase.io are linked to my public social media accounts. This list of secure contacts can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
@@ -111,4 +111,4 @@ xaDoznHsbjdsfEt6wPEnQ4S6wX5wMAmx7ZXVWXpZE/fXqegLlCSmqUzHRnj2jpDa
 3xS3LMI=  
 =q4xz  
 
------END PGP PUBLIC KEY BLOCK-----  
+-----END PGP PUBLIC KEY BLOCK-----

@@ -16,7 +16,7 @@ I host all my public crypto keys on [Keybase.io](https://ryankendall.keybase.pub
 
 **I prefer Ricochet for real time instant messaging**
 
-[Ricochet.im](http://ricochet.im) ID:  
+**[Ricochet.im](http://ricochet.im) ID:**  
 ricochet:yhk5bk23zr3445ed  
 
 **XMPP/OTR on [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads):**  

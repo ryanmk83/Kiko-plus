@@ -6,7 +6,7 @@ date: 2016-11-26
 comments: false
 ---
 ***
-**More Secure-ish Contacts** ___(Updated 04 December 2016):___
+**More Secure-ish Contacts** **_(Updated 04 December 2016):_**
 
 *If you have my phone number, you can reach me using [Signal](https://whispersystems.org)– which is my preferred option, or–**for casual conversations only**–you can reach me using [WhatsApp](https://www.whatsapp.com)*  
 

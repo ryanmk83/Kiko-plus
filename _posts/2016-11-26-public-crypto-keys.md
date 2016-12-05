@@ -12,23 +12,23 @@ If you have my phone number, please contact me using the excellent [Signal app](
 I host all my public crypto keys on [keybase.io](https://ryankendall.keybase.pub), which I **highly recommend**. The crypto keys on keybase.io are linked to my public social media accounts. This list of secure contacts can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
 
 **[My keybase.io profile](https://keybase.io/ryankendall)**  
-
+<hr>
 **I prefer Ricochet for real time instant messaging.**  
 **[Ricochet.im](http://ricochet.im) ID:**  
 ricochet:yhk5bk23zr3445ed  
-
+<hr>
 **XMPP/OTR on [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads):**  
 rmk2145 [at] jabber [dot] calyxinstitute [dot] org  
 
 **Tor Messenger Fingerprint:**  
 89B7F4D1 657B31F5 108DAA5A 27910130 1502997E  
-
+<hr>
 **XMPP/OTR on [Adium](https://www.adium.im):**  
 ryankendall [at] dukgo [dot] com  
 
 **Adium Fingerprint:**  
 A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3  
-
+<hr>
 **[PGP/Email]():**  
 
 [PGP ("Pretty Good Privacy")](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is a highly-secure encryption protocol that that can be used with email. For the casual user, PGP is complicated to setup and difficult to use. If you aren't worried worried about surveillance by a nation-state, I recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelope is an easy (read: dead simple) product to setup and use. It's not perfect, but it's an okay start. It's probably faster, easier, and more reliable/secure (read: better) to use a product like [ricochet.im](http://ricochet.im) or an XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) than it is to use PGP with email. Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).  

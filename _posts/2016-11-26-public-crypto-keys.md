@@ -48,7 +48,7 @@ E227 2BBC C3CD A0DE
 
 [Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)    
 
------BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----  
 Comment: https://keybase.io/ryankendall  
 
 xsFNBFg5JmgBEADFmHwWvr3qQTp4hmLe8LPg5XGyR0eWT78nqkRxajjPcFL3sw4K
@@ -110,7 +110,7 @@ tKh9Ja7/xllsR5lLX4U5rgdE1+XB73q3zXacyV+BdFb6Q05fSmHaPJFxxCMjeBWq
 GG3qSJ7aRoCsAJdQOQW6dKVWsySWK3pyPwf4YSjYI7LThJSYAL4yPC6hDjpSkh6r
 zDbgVMGBUbj+Bgb72OPUW5c13THFyQ9nI0n/05xGhcn1seOvoerc1+oaRqlmbWaT
 xaDoznHsbjdsfEt6wPEnQ4S6wX5wMAmx7ZXVWXpZE/fXqegLlCSmqUzHRnj2jpDa
-3xS3LMI=
+3xS3LMI=  
 =q4xz  
-
+  
 -----END PGP PUBLIC KEY BLOCK-----

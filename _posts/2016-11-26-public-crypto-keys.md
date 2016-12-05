@@ -8,14 +8,13 @@ comments: false
 ***
 **More Secure-ish Contacts** <i><B>(Updated 04 December 2016):</B></i>
 
-If you have my phone number, you can reach me using [Signal](https://whispersystems.org)– which is my preferred option, or, **for casual conversations only**, you can reach me using [WhatsApp](https://www.whatsapp.com)  
+If you have my phone number, please contact me using the excellent [Signal app](https://whispersystems.org)or-- **for casual conversations only**--you can reach me using [WhatsApp](https://www.whatsapp.com)  
 
-I host all my public crypto keys on [Keybase.io](https://ryankendall.keybase.pub), which I **highly recommend**. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
+I host all my public crypto keys on [keybase.io](https://ryankendall.keybase.pub), which I **highly recommend**. The crypto keys on keybase.io are linked to my public social media accounts. This list of secure contacts can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
 
-**[My Keybase.io profile](https://keybase.io/ryankendall)**  
+**[My keybase.io profile](https://keybase.io/ryankendall)**  
 
-**I prefer Ricochet for real time instant messaging**
-
+**I prefer Ricochet for real time instant messaging**  
 **[Ricochet.im](http://ricochet.im) ID:**  
 ricochet:yhk5bk23zr3445ed  
 
@@ -112,5 +111,5 @@ zDbgVMGBUbj+Bgb72OPUW5c13THFyQ9nI0n/05xGhcn1seOvoerc1+oaRqlmbWaT
 xaDoznHsbjdsfEt6wPEnQ4S6wX5wMAmx7ZXVWXpZE/fXqegLlCSmqUzHRnj2jpDa
 3xS3LMI=  
 =q4xz  
-  
+
 -----END PGP PUBLIC KEY BLOCK-----

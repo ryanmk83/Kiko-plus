@@ -8,13 +8,13 @@ comments: false
 ***
 **More Secure-ish Contacts** <i><B>(Updated 04 December 2016):</B></i>
 
-*If you have my phone number, you can reach me using [Signal](https://whispersystems.org)– which is my preferred option, or–**for casual conversations only**–you can reach me using [WhatsApp](https://www.whatsapp.com)*  
+If you have my phone number, you can reach me using [Signal](https://whispersystems.org)– which is my preferred option, or–**for casual conversations only**–you can reach me using [WhatsApp](https://www.whatsapp.com)  
 
-I host all my public crypto keys on [Keybase.io](https://ryankendall.keybase.pub), which I *highly recommend*. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
+I host all my public crypto keys on [Keybase.io](https://ryankendall.keybase.pub), which I **highly recommend**. The keys are linked to my public social media accounts. This document can also be found on [my website](http://www.ryanmkendall.com/2016-11-26/public-crypto-keys/).  
 
 [My Keybase.io profile](https://keybase.io/ryankendall)  
 
-***I prefer Ricochet for real time instant messaging***
+**I prefer Ricochet for real time instant messaging**
 
 [Ricochet.im](http://ricochet.im) ID:  
 ricochet:yhk5bk23zr3445ed  
@@ -45,7 +45,7 @@ E227 2BBC C3CD A0DE
 
 [Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)  
 
-*I know [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is complicated and difficult to use. For folks not worried about nation-state surveillance,I highly recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelop is easy (dead simple) to setup and use. It's not perfect, but it's a start. But in all honestly, using a product like [ricochet.im](http://ricochet.im) or setting up another jabber/XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) is probably faster, easier, and more reliable (read: better) than using PGP Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).*  
+I know [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is complicated and difficult to use. For folks not worried about nation-state surveillance,I highly recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelop is easy (dead simple) to setup and use. It's not perfect, but it's a start. But in all honestly, using a product like [ricochet.im](http://ricochet.im) or setting up another jabber/XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) is probably faster, easier, and more reliable (read: better) than using PGP Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).  
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 xsFNBFg5JmgBEADFmHwWvr3qQTp4hmLe8LPg5XGyR0eWT78nqkRxajjPcFL3sw4K

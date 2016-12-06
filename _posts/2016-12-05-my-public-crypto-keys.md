@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Public Cryptographic Keys"
-description: "A list of my more <i>secure-ish</i> communications."   
+description: "A list of my more <b><i>secure-ish</i></b> contacts."   
 date: 2016-12-05  
 comments: false
 ---

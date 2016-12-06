@@ -2,7 +2,7 @@
 layout: post
 title: "My Public Cryptographic Keys"
 description: "A list of means to reach me by more secure-ish communications."   
-date: 2016-11-26  
+date: 2016-12-05  
 comments: false
 ---
 ### <span style="text-decoration: underline;">More Secure-ish Contacts:</span>

@@ -9,7 +9,7 @@ share: true
 ### <span style="text-decoration: underline;">More Secure-ish Contacts:</span>
 *(Updated 05 December 2016)*  
 
-If you have my phone number, please contact me using the excellent [Signal app](https://whispersystems.org) or--*for casual conversations only*--you can reach me using [WhatsApp](https://www.whatsapp.com).  
+If you have my phone number, please contact me using the excellent **[Signal app](https://whispersystems.org)** or--*for casual conversations only*--you can reach me using [WhatsApp](https://www.whatsapp.com).  
 
 I host all my public crypto keys on [keybase.io](https://ryankendall.keybase.pub), which I *highly recommend*. The crypto keys on [keybase.io](https://keybase.io) are linked to my public social media accounts. This list of secure contacts can also be found (here) on [my website](http://www.ryanmkendall.com/2016-12-05/my-public-crypto-keys/).  
 

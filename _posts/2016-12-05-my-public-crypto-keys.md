@@ -15,35 +15,35 @@ I host all my public crypto keys on [keybase.io](https://ryankendall.keybase.pub
 
 **[My keybase.io profile](https://keybase.io/ryankendall)**  
 <hr>
-<span style="text-decoration: underline;">I prefer Ricochet for real time instant messaging.</span>  
+**<span style="text-decoration: underline;">I prefer Ricochet for real time instant messaging.</span>**  
 **[Ricochet.im](http://ricochet.im) ID:**  
 ricochet:yhk5bk23zr3445ed  
 <hr>
-<span style="text-decoration: underline;">XMPP/OTR on [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads):</span>  
+**<span style="text-decoration: underline;">XMPP/OTR on [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads):</span>**  
 rmk2145 [at] jabber [dot] calyxinstitute [dot] org  
 
-<span style="text-decoration: underline;">Tor Messenger Fingerprint:</span>  
+**<span style="text-decoration: underline;">Tor Messenger Fingerprint:</span>**  
 89B7F4D1 657B31F5 108DAA5A 27910130 1502997E  
 <hr>
-<span style="text-decoration: underline;">XMPP/OTR on [Adium](https://www.adium.im):</span>  
+**<span style="text-decoration: underline;">XMPP/OTR on [Adium](https://www.adium.im):</span>**  
 ryankendall [at] dukgo [dot] com  
 
-<span style="text-decoration: underline;">Adium Fingerprint:</span>  
+**<span style="text-decoration: underline;">Adium Fingerprint:</span>**  
 A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3  
 <hr>
-<span style="text-decoration: underline;">[PGP/Email]():</span>
+**<span style="text-decoration: underline;">[PGP/Email]():</span>**  
 
 [PGP ("Pretty Good Privacy")](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is a highly-secure encryption protocol that that can be used with email. For the casual user, PGP is complicated to setup and difficult to use. If you aren't worried worried about surveillance by a nation-state, I recommend [Mailvelope](https://www.mailvelope.com) as a good first step. Mailvelope is an easy (read: dead simple) product to setup and use. It's not perfect, but it's an okay start. It's probably faster, easier, and more reliable/secure (read: better) to use a product like [ricochet.im](http://ricochet.im) or an XMPP service via [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads) or on [Adium](https://www.adium.im) than it is to use PGP with email. Here's a good article on getting started with those services: [Micah Lee, Chatting in Secret While We’re All Being Watched, The Intercept (July 2015)](https://theintercept.com/2015/07/14/communicating-secret-watched/).  
 
-<span style="text-decoration: underline;">MyPGP-associated email addresses:</span>  
+**<span style="text-decoration: underline;">MyPGP-associated email addresses:</span>**  
 rmk2145 [at] columbia [dot] edu  
 **OR**  
 ryankendall [at] ucla [dot] edu  
 
-<span style="text-decoration: underline;">My PGP Fingerprint:</span>  
+**<span style="text-decoration: underline;">My PGP Fingerprint:</span>**  
 1133 8148 EB8B 7AFD 3A38 8AE2 E227 2BBC C3CD A0DE  
 
-<span style="text-decoration: underline;">My 64-bit PGP Fingerprint:</span>  
+**<span style="text-decoration: underline;">My 64-bit PGP Fingerprint:</span>**  
 E227 2BBC C3CD A0DE  
 
 **[Click here for my PGP public key.asc file](https://keybase.io/ryankendall/key.asc)**    
@@ -114,4 +114,3 @@ xaDoznHsbjdsfEt6wPEnQ4S6wX5wMAmx7ZXVWXpZE/fXqegLlCSmqUzHRnj2jpDa
 =q4xz  
 
 -----END PGP PUBLIC KEY BLOCK-----  
-  

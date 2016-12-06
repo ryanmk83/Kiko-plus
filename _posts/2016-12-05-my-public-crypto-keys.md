@@ -17,7 +17,8 @@ If you have my phone number, please contact me using the excellent **[Signal app
 **<span style="text-decoration: underline;">I prefer Ricochet for real time instant messaging.</span>**  
 **[Ricochet.im](http://ricochet.im) ID:**  
 ricochet:yhk5bk23zr3445ed  
-<hr>  
+<hr>
+**<span style="text-decoration: underline;">[XMPP ](https://en.wikipedia.org/wiki/XMPP) messaging protocol and [OTR encryption](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) on Wikipedia</span>**
 
 **<span style="text-decoration: underline;">XMPP/OTR on [Tor Messenger](https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger#Downloads):</span>**  
 rmk2145 [at] jabber [dot] calyxinstitute [dot] org  

@@ -7,7 +7,7 @@ comments: false
 share: true
 ---
 <H3> <span style="text-decoration: underline;">More Secure-ish Contacts</span></H3>
-***(Updated with new key fingerprints for Adium and TorMessenger 22 December 2016)***
+***(Updated with a new Ricochet ID and with new key fingerprints TorMessenger and Adium 22 December 2016)***
 
 If you have my phone number, please contact via text me using the excellent **[Signal app](https://whispersystems.org)** or--**for casual conversations only**--you can reach me using **[WhatsApp](https://www.whatsapp.com)**. I host all my public crypto keys on **[keybase.io](https://ryankendall.keybase.pub "My keybase.io profile")**, which I highly recommend. The crypto keys on **[keybase.io](https://keybase.io)** are linked to my public social media accounts.  
 

@@ -2,12 +2,12 @@
 layout: post
 title: "My Public Cryptographic Keys"
 description: "A list of my more <b><i>secure-ish</i></b> contacts."   
-date: 2016-12-05  
+date: 2016-12-22  
 comments: false
 share: true
 ---
 <H3> <span style="text-decoration: underline;">More Secure-ish Contacts</span></H3>
-~~*(Updated 05 December 2016)*~~ Key Updates in progress 2016-12-15 for stricken items. /RK
+***(Updated with new key fingerprints for Adium and TorMessenger 22 December 2016)***
 
 If you have my phone number, please contact via text me using the excellent **[Signal app](https://whispersystems.org)** or--**for casual conversations only**--you can reach me using **[WhatsApp](https://www.whatsapp.com)**. I host all my public crypto keys on **[keybase.io](https://ryankendall.keybase.pub "My keybase.io profile")**, which I highly recommend. The crypto keys on **[keybase.io](https://keybase.io)** are linked to my public social media accounts.  
 
@@ -16,7 +16,7 @@ If you have my phone number, please contact via text me using the excellent **[S
 
 **<span style="text-decoration: underline;">I prefer Ricochet for real time instant messaging.</span>**  
 **[Ricochet.im](http://ricochet.im) ID:**  
-~~ricochet:yhk5bk23zr3445ed~~  
+ricochet:5hfqrxceyccvmftr
 <hr>
 **<span style="text-decoration: underline;">[XMPP ](https://en.wikipedia.org/wiki/XMPP) messaging protocol and [OTR encryption](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) on Wikipedia</span>**
 
@@ -24,14 +24,14 @@ If you have my phone number, please contact via text me using the excellent **[S
 rmk2145 [at] jabber [dot] calyxinstitute [dot] org  
 
 **<span style="text-decoration: underline;">Tor Messenger Fingerprint:</span>**  
-~~89B7F4D1 657B31F5 108DAA5A 27910130 1502997E~~  
+DE8BF4F4 F5FFAC1F 958231CD E5AD9276 1BF1D80B
 <hr>
 
 **<span style="text-decoration: underline;">XMPP/OTR on [Adium](https://www.adium.im):</span>**  
 ryankendall [at] dukgo [dot] com  
 
 **<span style="text-decoration: underline;">Adium Fingerprint:</span>**  
-~~A7C15795 49202E36 5B98848E 6FBCEE42 100D88F3~~  
+1F6335B0 B6A02BB5 4F5D1846 D5BB9257 68842F63
 <hr>  
 
 **<span style="text-decoration: underline;">PGP/Email:</span>**  

@@ -1,5 +1,6 @@
 ---
-title: My Secure Contacts
+layout: page
+title: Contact
 permalink: /secure-contacts/
 ---
 <H3> <span style="text-decoration: underline;">More Secure-ish Contacts</span></H3>

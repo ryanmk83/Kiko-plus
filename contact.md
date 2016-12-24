@@ -5,10 +5,10 @@ permalink: /contact/
 You can reach me via email at **ryankendall** [at] **ucla** [dot] **edu**, but for anything serious, see my secure contacts below:  
 <h4><span style="text-decoration: underline;">More Secure-ish Contacts</span></h4>  
 <h5>Updates:</h5>  
-  - RK 23 Dec. 2016: New PGP key/fingerprints.  
+  - RK 23 Dec. 2016: New PGP key.  
   - RK 23 Dec. 2016: Reset keybase.io account.
   - RK 22 Dec. 2016: New Ricochet ID.  
-  - RK 22 Dec. 2016: New encryption keys/fingerprints for Tor Messenger and Adium identities.  
+  - RK 22 Dec. 2016: New keys for Tor Messenger and Adium identities.  
 
 If you have my phone number, please contact via text me using the excellent **[Signal app](https://whispersystems.org)** or--**for casual conversations only**--you can reach me using **[WhatsApp](https://www.whatsapp.com)**. I host all my public crypto keys on **[keybase.io](https://ryankendall.keybase.pub "My keybase.io profile")**, which I highly recommend. The crypto keys on **[keybase.io](https://keybase.io)** are linked to my public social media accounts.
 

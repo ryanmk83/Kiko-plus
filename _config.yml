@@ -34,7 +34,7 @@ timezone:           America/Los_Angeles
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
-paginate:           6
+paginate:           5
 paginate_path:      /page:num/
 
 # Markdown
@@ -48,7 +48,7 @@ nav:
     url:            "/about"
   - name:           "Archive"
     url:            "/archive"
-  - Contact:        "Contact"
+  - name:           "Contact"
     url:            "/contact"
   - name:           "Tags"
     url:            "/tags"

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: My Secure Contacts
+permalink: /secure-contacts/
 ---
 <H3> <span style="text-decoration: underline;">More Secure-ish Contacts</span></H3>
 ***RK 22 Dec. 2016: Updated with new Ricochet ID and key fingerprints for my TorMessenger and Adium identities.***

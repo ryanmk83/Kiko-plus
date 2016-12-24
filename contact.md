@@ -8,7 +8,7 @@ If you have my phone number, please contact via text me using the excellent **[S
 
 *12/23 Note: I current have an issue with my Keybase public directory, and this functionality is not available.* ~~I host all my public crypto keys on **[keybase.io](https://ryankendall.keybase.pub "My keybase.io profile")** – which I highly recommend – and on **[my personal website](http://bit.ly/2hS7SnW)**. The crypto keys on **[keybase.io](https://keybase.io)** are linked to my public social media accounts.~~  
 
-You can verify my current public PGP key on **[my Keybase.io profile](https://keybase.io/ryankendall)**, which are linked to my social medial accounts. I host all my cryptographic keys and my secure contacts on **[my personal website](http://bit.ly/2hS7SnW)**.  
+You can verify my current public PGP key on **[my Keybase.io profile](https://keybase.io/ryankendall)**, which is linked to my social medial accounts. I host all my cryptographic keys and my secure contacts on **[my personal website](http://bit.ly/2hS7SnW)**.  
 
 ~~**[My keybase.io profile](https://keybase.io/ryankendall)**~~
 <hr>

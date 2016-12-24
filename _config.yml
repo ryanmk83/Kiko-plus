@@ -48,9 +48,10 @@ nav:
     url:            "/about"
   - name:           "Archive"
     url:            "/archive"
+  - My Secure Contacts: "My Secure Contacts"
+    url:             "/secure-contacts"
   - name:           "Tags"
     url:            "/tags"
-  - Secure Contacts: "/secure-contacts"
   - #name:           "Github"
     #url:            "https://github.com/AWEEKJ/Kiko-plus"
 

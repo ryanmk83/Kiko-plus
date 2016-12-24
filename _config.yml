@@ -49,7 +49,7 @@ nav:
   - name:           "Archive"
     url:            "/archive"
   - Contact:        "Contact"
-    url:            "/secure-contacts/"
+    url:            "/contact"
   - name:           "Tags"
     url:            "/tags"
   - #name:           "Github"

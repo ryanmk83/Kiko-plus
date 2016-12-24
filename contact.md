@@ -2,7 +2,7 @@
 title: Contact Me
 permalink: /contact/
 ---
-*tl;dr – You can reach me at ryankendall [at] ucla [dot] edu, but for anything serious, see below:*  
+*tl;dr – You can reach me at* ryankendall [at] ucla [dot] edu, *but for anything serious, see below:*  
 <h3><span style="text-decoration: underline;">More Secure-ish Contacts:</span></h3>  
 
   - ***RK 22 Dec. 2016: Updated with new Ricochet ID and key fingerprints for my TorMessenger and Adium identities.***  

@@ -13,7 +13,7 @@ author:
   twitter:          rmk2145
   linkedin:         ryanmkendall
   medium:           ryankendall
-  email:            ryankendall [at] ucla [dot] edu
+  email:            ryankendall@ucla.edu
 
 # Google-analytics
 google-analytics:
@@ -50,6 +50,7 @@ nav:
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
+  - Secure Contacts: "/secure-contacts"
   - #name:           "Github"
     #url:            "https://github.com/AWEEKJ/Kiko-plus"
 

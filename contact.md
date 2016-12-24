@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 You can reach me via email at **ryankendall** [at] **ucla** [dot] **edu**. But for any communication about a truly sensitive matter, please see my secure contacts below:  
 <h5><span style="text-decoration: underline;">More Secure-ish Contacts</span></h5>  
-If you have my phone number, please contact via text me using the excellent **[Signal app](https://whispersystems.org)** or – **for casual conversations only** – you can reach me using **[WhatsApp](https://www.whatsapp.com)**. I host all my public crypto keys on **[keybase.io](https://ryankendall.keybase.pub "My keybase.io profile")** – which I highly recommend – and on **[my personal website](www.ryanmkendall.com/contact)**. The crypto keys on **[keybase.io](https://keybase.io)** are linked to my public social media accounts.
+If you have my phone number, please contact via text me using the excellent **[Signal app](https://whispersystems.org)** or – **for casual conversations only** – you can reach me using **[WhatsApp](https://www.whatsapp.com)**. I host all my public crypto keys on **[keybase.io](https://ryankendall.keybase.pub "My keybase.io profile")** – which I highly recommend – and on **[my personal website](http://bit.ly/2hS7SnW)**. The crypto keys on **[keybase.io](https://keybase.io)** are linked to my public social media accounts.
 
 **[My keybase.io profile](https://keybase.io/ryankendall)**
 <hr>

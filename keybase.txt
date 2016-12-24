@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/ryankendall
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am the admin of http://www.ryanmk83.github.io
+  * I use http://ww.ryanmk83.github.io to host http://www.ryanmkendall.com
+  * I am ryankendall (https://keybase.io/ryankendall) on keybase.
+  * I have a public key with fingerprint 6CB4 112D 10D0 E116 2C26  8FCE BAF0 7771 C212 C1A2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01206cbc586730871c2f48d5198c6724b65b68a3e2147e28f7b8b4de8d56bc20028c0a",
+            "fingerprint": "6cb4112d10d0e1162c268fcebaf07771c212c1a2",
+            "host": "keybase.io",
+            "key_id": "baf07771c212c1a2",
+            "kid": "01014efafb88bf7a7680a6bd6637b600f38b299a3a94c512ce16e0700d6b3dc242d00a",
+            "uid": "c5dd3e00f29ae5d9bdbc9e29b8ba5319",
+            "username": "ryankendall"
+        },
+        "service": {
+            "hostname": "www.ryanmk83.github.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1482561262,
+    "expire_in": 157680000,
+    "prev": "76480981f9ef484c9112a45e3fcb6ea45bae138a7f601ec1fd69f868a4f8b5a6",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtkn9QFGUYx0EE+RFlSNgBzcgijDch7M93d09UyKZMFJBGQdNg3913uQ24O+4O
+roshiIoGLMv0usaO0LNxxDLEGYYGoRRnHJJ0YsCJiIScisEGwokQqKB3Sf9r/3l3
+9/18v+/3eZ73vciggPDAzmlXeU/UZX9g3wQMKHgxZr6KgFbFTZiqiBK0vKBSBTmc
+hSWaQpgIkqJJIEOZEwDPkAJPybTKCgpHiYIMeJqFgINAkBhEUyyPaEHloQBZBWEE
+QJkmSVqQSYlIIVTNUozsNrtmcWJbbMlSFK1QpEIiigK0TANBlRGUVJLn9VMoWqYk
+GgvNVoeuwOGg5ECpmhX/wx+Fy/H+h3+Qm6RYpEoqFASo8hIPBFICUAGA4SEgSZUR
+IC2KEiOJrMxhMaIAInmSVABkFJlmaYVczl2xbCdzisIgLKNFCXGKCBUoi4gWcbES
+x1CiDjqQ3SKVIUzb3ZKlBFkUqbSUqE4h8EalJiO9t3ox9yGXy5Wqg2UlApNarDnN
+FfC/4mx2q9MqW0sxY3Y6bSbdwum2LWsQLLzvVgg1i4J7igWVyO7QrBbCRGFSdmq6
+PcUKNAcoGtApBHrZptlRoaYTnN4I/OjHIFSJPXnACqQoUKqI8GRZWcRzkVgOMaoM
+AcJvUEIUI0i8CkgKyZSqAFEV8MxZVYCcBAi9wHKLlTDRLA4qFWNPh1ZskZwVdkRU
+hzesiF8ZEBgeEBK8Qr9uAeFhqx/cwXPxjyyK/oe+Zbv+1JI35JweaclO8M2Zet44
+Ztvx7Bjluzsybojohgmh9Vv6PVk/h2Yvuk/63ZvX1QzykXublOgTn+W/xLsyz8Vn
+FNTnpoYV7Pm7NajI7r2dEb+wtem3W+0xh1qm1noqge+Uj8xo3PSHcWgsTly1MQNO
+TH9wx7P16mtWg9tw/LukG88U/eN4tXYxx236ccA51RZTN2cMeTPT9tQ119JsnDG/
+pOGLfb3tsZ8+MRpqmjNfYXI2rTyG3qkbIrIOmXOrUjaPzp/pTXq4LYt8u6PTPFf7
+ltQddXGCj/1lJnPb+r8+/r59/+dzN+FY7OHiJ6PzVECcndmw/QfPr5NpxiXjbkNp
+mHELEaStGSZuHA02ZER3mNdVptl2DtXYgvyRh33e8WwErr8g3KntjEjvvHsv0clW
+8Y27h75k9gdTs9vWBNx85UTOwdzGx8wRyZ7CnvR93d7R2R3cJdfSzDAXX1t+4fJP
+naNHvs6/uP7Rncw0eH2XfSSt35t/u2nX0UXvh8dnxlvvHcmba2s+OXVqY39ayKXQ
+gbILLVPpXWl1Ne/7v0pIih1sjrKKhqnnHXneuI7t8wt9Tc3V5w/2te65ah7urbne
++NGqA46iourwyee4syGgPifT0zdy/hvr4MLT79aU3VrbPjB5QGy4MhHRmJyIfu+q
+uubP3Gtanfi4r/v0wie+M55/AQ==
+=flhV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryankendall
+
+==================================================================

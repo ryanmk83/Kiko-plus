@@ -2,7 +2,8 @@
 title: Contact Me
 permalink: /contact/
 ---
-<span style="text-decoration: underline;">**My More** <i>**Secure-ish**</i> **Contacts**</span>**:**  
+<h3><span style="text-decoration: underline;">**My More** <i>**Secure-ish**</i> **Contacts**</span>**:**</h3>  
+
 - ***RK 22 Dec. 2016: Updated with new Ricochet ID and key fingerprints for my TorMessenger and Adium identities.***  
 - ***23 Dec. 2016: Updated with new PGP Key - fresh start / reset all keybase.io keys***
 

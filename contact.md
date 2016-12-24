@@ -3,7 +3,7 @@ title: Contact Me
 permalink: /contact/
 ---
 *tl;dr – You can reach me at ryankendall [at] ucla [dot] edu, but for anything serious, see below:*  
-<H3><b><i><span style="text-decoration: underline;">More Secure-ish Contacts</b></i> <span><b><i>:</b></i></H3>  
+<H3> <b><i> <span style="text-decoration: underline;">More Secure-ish Contacts:</b></i> <span> </H3>  
 
   - ***RK 22 Dec. 2016: Updated with new Ricochet ID and key fingerprints for my TorMessenger and Adium identities.***  
   - ***23 Dec. 2016: Updated with new PGP Key - fresh start / reset all keybase.io keys***

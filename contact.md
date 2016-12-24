@@ -2,7 +2,7 @@
 title: Contact Me
 permalink: /contact/
 ---
-You can reach me via email at ryankendall [at] ucla [dot] edu, but for anything serious, see below:  
+You can reach me via email at **ryankendall** [at] **ucla** [dot] **edu**, but for anything serious, please continue reading:  
 <h4><span style="text-decoration: underline;">More Secure-ish Contacts</span></h4>  
 <h5>Updates:</h5>  
   - RK 23 Dec. 2016: New PGP key.  

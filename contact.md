@@ -2,7 +2,7 @@
 title: Contact
 permalink: /contact/
 ---
-**My More Secure-ish Contacts:**
+**My More Secure-ish Contacts:**  
   - ***RK 22 Dec. 2016: Updated with new Ricochet ID and key fingerprints for my TorMessenger and Adium identities.***
 
 If you have my phone number, please contact via text me using the excellent **[Signal app](https://whispersystems.org)** or--**for casual conversations only**--you can reach me using **[WhatsApp](https://www.whatsapp.com)**. I host all my public crypto keys on **[keybase.io](https://ryankendall.keybase.pub "My keybase.io profile")**, which I highly recommend. The crypto keys on **[keybase.io](https://keybase.io)** are linked to my public social media accounts.

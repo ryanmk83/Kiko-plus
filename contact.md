@@ -13,7 +13,7 @@ You can verify my current public PGP key on **[my Keybase.io profile](https://ke
 ~~**[My keybase.io profile](https://keybase.io/ryankendall)**~~
 <hr>
 
-**<span style="text-decoration: underline;">I prefer Ricochet for real time instant messaging.</span>**
+**<span style="text-decoration: underline;">I prefer Ricochet for real time instant messaging.</span>**  
 **[Ricochet.im](http://ricochet.im)ID:**  
 ricochet:5hfqrxceyccvmftr
 <hr>

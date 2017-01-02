@@ -6,7 +6,9 @@ You can reach me via email at **ryankendall** [at] **ucla** [dot] **edu**. But f
 <h5><span style="text-decoration: underline;">More Secure-ish Contacts</span></h5>  
 If you have my phone number, please contact via text me using the excellent **[Signal app](https://whispersystems.org)** or – **for casual conversations only** – you can reach me using **[WhatsApp](https://www.whatsapp.com)**.  
 
-***2016-12-26 NB: The information listed at the URL [ryankendall.keybase.pub](https://ryankendall.keybase.pub) is out of date. Please do not use it. A technical issue is currently preventing me from updating that site. I list all my crypto keys here and have begun including update information at the bottom of this page. I will eventually use my PGP key to sign this page/information (if that's something you can do).***
+2017-01-02: NB This issue is resolved. [ryankendall.keybase.pub](https://ryankendall.keybase.pub) is now up to date.  
+
+~~2016-12-26 NB: The information listed at the URL [ryankendall.keybase.pub](https://ryankendall.keybase.pub) is out of date. Please do not use it. A technical issue is currently preventing me from updating that site. I list all my crypto keys here and have begun including update information at the bottom of this page. I will eventually use my PGP key to sign this page/information (if that's something you can do).~~
 
 You can verify my current public PGP key on **[my Keybase.io profile](https://keybase.io/ryankendall)**, which is linked to my social medial accounts. I host all my cryptographic keys and my secure contacts on **[my personal website](http://bit.ly/2hS7SnW)**.  
 
